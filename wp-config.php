@@ -29,7 +29,7 @@ define( 'DB_USER', 'epiz_27070174' );
 define( 'DB_PASSWORD', 'KH2FNyZVmBl04e' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'sql201.epizy.com' );
+define( 'DB_HOST', 'sql201.epizy.com:3306' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
